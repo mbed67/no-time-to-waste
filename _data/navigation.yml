@@ -6,8 +6,8 @@
   url: "/sustainability/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
+  - title: "Haybox cooking without a haybox"
+    url: "/sustainability/haybox/"
 
 - title: "Mindfulness"
   url: "/mindfulness/"
