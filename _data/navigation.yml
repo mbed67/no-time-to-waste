@@ -12,9 +12,6 @@
 - title: "Mindfulness"
   url: "/mindfulness/"
   side: left
-  dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
 
 - title: About me
   url: "/about/"
@@ -29,8 +26,4 @@
 
 - title: "Search"
   url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
   side: right
