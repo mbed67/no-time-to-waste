@@ -8,14 +8,14 @@ layout: frontpage
 header:
   image_fullwidth: ai7sv3ssmiq-fabrizio-verrecchia-small.jpg
 widget1:
-  title: "Widget 1"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  title: "Blog"
+  url: 'https://mbed67.github.io/no-time-to-waste/blog/'
+  image: 'widget-1-302x182.jpg'
   text: ''
 widget2:
-  title: "Widget 2"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  title: "Tutorial"
+  url: 'https://mbed67.github.io/no-time-to-waste/sustainability/shopping-list/'
+  image: 'shopping-list.png'
   text: ''
 widget3:
   title: "Widget 3"
