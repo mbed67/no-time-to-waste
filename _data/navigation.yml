@@ -14,6 +14,9 @@
 - title: "Mindfulness"
   url: "/mindfulness/"
   side: left
+  dropdown:
+  - title: "Being mindful on your way to work"
+    url: "/sustainability/commuting/"
 
 - title: About me
   url: "/about/"
